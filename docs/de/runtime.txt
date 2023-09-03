@@ -1,0 +1,22 @@
+﻿Bei den folgenden Dateien handelt es sich gemäß der Begriffsdefinition von "Runtime-Software" im Abschnitt VERWENDUNG, IMPLEMENTIERUNG UND VERTRIEB VON RUNTIME-SOFTWARE der Lizenzvereinbarung um "Runtime-Software":
+
+
+**.NET-MERGEMODULE**
+CRRuntime_12_0.msm
+CRRuntime_12_0_de.msm
+CRRuntime_12_0_es.msm
+CRRuntime_12_0_fr.msm
+CRRuntime_12_0_it.msm
+CRRuntime_12_0_ja.msm
+CRRuntime_12_0_ko.msm
+CRRuntime_12_0_nl.msm
+CRRuntime_12_0_pt.msm
+CRRuntime_12_0_sv.msm
+CRRuntime_12_0_zh_CN.msm
+CRRuntime_12_0_zh_TW.msm
+CRRuntime_12_0_maps.msm
+
+
+**.NET REDISTRIBUTABLES FüR CLICKONCE- UND STANDALONE-INSTALLATIONEN**
+CRRuntime_12_0_mlb.msi
+CRRuntime_12_0_mlb.exe

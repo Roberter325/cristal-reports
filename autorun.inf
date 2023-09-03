@@ -1,0 +1,5 @@
+[autorun]
+open=autorun.exe  
+icon=autorun.exe, 0
+shell\install=Install
+shell\install\command=autorun.exe

@@ -1,0 +1,23 @@
+﻿
+使用許諾契約の「ランタイム ソフトウェアの使用、導入および配布」セクションにおける「ランタイム ソフトウェア」の定義に従い、次のファイルを「ランタイム ソフトウェア」とします。
+
+
+**.NET マージ モジュール**
+CRRuntime_12_0.msm
+CRRuntime_12_0_de.msm
+CRRuntime_12_0_es.msm
+CRRuntime_12_0_fr.msm
+CRRuntime_12_0_it.msm
+CRRuntime_12_0_ja.msm
+CRRuntime_12_0_ko.msm
+CRRuntime_12_0_nl.msm
+CRRuntime_12_0_pt.msm
+CRRuntime_12_0_sv.msm
+CRRuntime_12_0_zh_CN.msm
+CRRuntime_12_0_zh_TW.msm
+CRRuntime_12_0_maps.msm
+
+
+**ClickOnce およびスタンドアロン インストールの .NET Redistributable**
+CRRuntime_12_0_mlb.msi
+CRRuntime_12_0_mlb.exe
